@@ -1,0 +1,18 @@
+# Arquivos temporários
+*.tmp
+*.log
+*.pyc
+__pycache__/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos grandes de simulação (se houver)
+*.mjb
+*.txt
+
+# Arquivos de ambiente Python
+venv/
+env/
+.venv/
